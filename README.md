@@ -1,2 +1,3 @@
 # Sentiment-Analysis-on-Movie-Reviews
-Used Bag of Words model and then a Logistic Regression to predict the sentiment of a movie review from IMDB.
+This project aims to create an algorithm that gives a binary classification to a movie review, indicating a positive or a negative sentiment.  
+To achieve this goal, I used a Bag of Words model and then a Logistic Regression.
